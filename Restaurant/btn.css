@@ -1,0 +1,210 @@
+.text-center button {
+    margin: 0 0 0 15px;
+    border: 2px solid wheat;
+     background-color: #cda45e;
+    border-radius: 50px;
+    padding: 8px 25px;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    transition: 0.3s;
+    margin-top: 14px;
+    margin-left: 90vh;
+  }
+  
+  .text-center button:hover {
+    background: #cda45e;
+    color: #fff;
+    
+  }
+
+  .section-title h2 {
+  
+  
+ 
+    font-weight: 300;
+     color: white;
+    font-size: 26px;
+    text-transform: capitalize;
+    margin-top: 20px;
+    letter-spacing: 1px;
+    margin-left: 12px;
+    font-family:"Playfair Display", serif; 
+  }
+
+
+  .section-title p {
+  
+  
+ 
+    font-weight: 600;
+     color:goldenrod;
+    font-size: 38px;
+    text-transform: capitalize;
+    margin-top: 20px;
+    margin-left: 12px;
+    letter-spacing: 1px;
+    font-family:"Playfair Display", serif; 
+  }
+
+
+  .text-center button a{
+
+    text-decoration: none;
+    color: white;
+  }
+
+  .book-a-table{
+
+    background-color: #222;
+    height: 90vh;
+  }
+
+  input#name {
+    text-align: center;
+    width: 58vh;
+    height: 37px;
+    color: white;
+  background: transparent;
+    border: 1px solid white;
+       outline: 0;
+       margin-top: 7px;
+       height: 28px;
+       padding: 2px;
+  }
+  input#email{
+    text-align: center;
+    margin-top: 6px;
+    color: white;
+    margin-left: 9px;
+    width: 58vh;
+    height: 42px;
+    padding: 4px;
+    border: 1px solid white;
+       outline: 0;
+       background: transparent;
+       height: 28px;
+  }
+
+  input#phone{
+    text-align: center;
+    margin-top: 6px;
+    color: white;
+    margin-left: 9px;
+    width: 58vh;
+    height: 37px;
+    padding: 4px;
+    border: 1px solid white;
+       outline: 0;
+       background: transparent;
+       height: 28px;
+  }
+  
+
+  input#date{
+    text-align: center;
+    margin-top: 6px;
+    color: white;
+    margin-left: 5px;
+    width: 58vh;
+    height: 37px;
+    padding: 4px;
+    border: 1px solid white;
+       outline: 0;
+       background: transparent;
+       height: 28px;
+  }
+
+  .form-group textarea{
+    text-align: center;
+    margin-top: 18px;
+
+    color: white;
+    
+    
+    padding: 4px;
+    border: 1px solid white;
+       outline: 0;
+       background: transparent;
+       width:190vh;
+       height:15vh;
+       margin-left: 46px;
+  }
+
+  input#time{
+    text-align: center;
+    margin-top: 6px;
+    color: white;
+    margin-left: 9px;
+    width: 58vh;
+    height: 37px;
+    padding: 4px;
+    border: 1px solid white;
+       outline: 0;
+       background: transparent;
+       height: 28px;
+  }
+
+  input#people{
+    text-align: center;
+    margin-top: 6px;
+    color: white;
+    margin-left: 9px;
+    width: 58vh;
+    height: 37px;
+    padding: 4px;
+    border: 1px solid white;
+       outline: 0;
+       background: transparent;
+       height: 28px;
+  }
+
+  .row1{
+
+    display: flex;
+    justify-content:space-evenly;
+    margin-top: 15px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  input#subject{
+    text-align: center;
+    margin-top: 22px;
+    margin-left: 9px;
+    color: white;
+    width: 102vh;
+    height: 37px;
+    border: 1px solid white;
+       outline: 0;
+       background: transparent;
+       height: 28px;
+  }
+
+  input#subject:hover{
+
+    border-color: goldenrod;
+   }
+   
+   
+   input#email:hover{
+   
+     border-color: goldenrod;
+    }
+   
+    
+    input#name:hover{
+   
+     border-color: goldenrod;
+    }
+
+    .row{
+
+        display: flex;
+        justify-content:space-evenly;
+    }
